@@ -44,7 +44,7 @@ print(Norm_of_matrix)
 ### Infinity Norm of a Matrix
 ```
 '''
-Program to find 2-norm of a matrix.
+Program to find infinity-norm of a matrix.
 Developed by: HARITHA RAMESH
 RegisterNumber: 23003324
 '''
